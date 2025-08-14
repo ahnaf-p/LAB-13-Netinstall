@@ -3,6 +3,7 @@ Kamis 14 Agustus 2025
 
 # Netinstall
   Netinstall adalah tool untuk install dan install ulang perangkat Mikrotik yang menjalankan RouterOS. Gunakan NEtinstall jika kamu menemukan ada yang salah pada perangkat Mikrotikmu. Tool ini tersedia untuk windows dengan GUI dan Linux dengan CLI.    
+    
   **Berikut langkah-langkah Install ulang dengan Netinstall**  
     1. Download Netinstall dengan versi yang stable dari Mikrotik download page.  
     2. Selain netinstall, kita juga perlu RouterOS main package, yang bisa di unduh dari Mikrotik download page.  
