@@ -2,7 +2,7 @@
 Kamis 14 Agustus 2025
 
 # Netinstall
-  Netinstall adalah tool untuk install dan install ulang perangkat Mikrotik yang menjalankan RouterOS. Gunakan NEtinstall jika kamu menemukan ada yang salah pada perangkat Mikrotikmu. Tool ini tersedia untuk windows dengan GUI dan Linux dengan CLI.    
+  Netinstall adalah tool untuk install dan install ulang perangkat Mikrotik yang menjalankan RouterOS. Gunakan NEtinstall jika menemukan ada yang salah pada perangkat Mikrotik. Tool ini tersedia untuk windows dengan GUI dan Linux dengan CLI.    
     
   **Berikut langkah-langkah Install ulang dengan Netinstall**  
     1. Download Netinstall dengan versi yang stable dari Mikrotik download page.  
@@ -28,7 +28,7 @@ Kamis 14 Agustus 2025
     13. Jika sudah terdeteksi klik Browse dan cari folder tempat download/simpan firmware yang sudah di download sebelumnya.  
     ![cari](wanted.PNG)
     14. Checklist checkbox routeros-smips (pilih sesuai firmware yang didownload dan sesuai arch routernya)  
-    *Jika ingin konfigurasi lama tidak terhapus, maka check keep old configuration. Dan jika ingin konfigurasi default, check box Aplly default config*
+    *Jika ingin konfigurasi lama tidak terhapus, maka check keep old configuration. Dan jika ingin konfigurasi default, check box Aplly default config*  
     15. Klik Install, dan tunggu sampai proses selesai.  
     ![beres](installing.PNG)  
     16. Jika sudah selesai, coba remote kembali Mikrotiknya.  
@@ -36,3 +36,4 @@ Kamis 14 Agustus 2025
 
 
 # Kesimpulan
+Netinstall digunakan untuk menginstall ulang ReouterOS yang memiliki masalah seperti gagal dalam mengupgrade atau menginstall ulang, atau lupa username dan password.  
